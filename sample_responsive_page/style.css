@@ -17,7 +17,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color:rgba(255, 255, 255, 0.459);
+    /* background-color:rgba(255, 255, 255, 0.459); */
     position: relative;
 }
 .main:before{
@@ -172,4 +172,4 @@ button{
     .inner h1{
         font-size: 21px;
     
-}
+}}
